@@ -1,3 +1,5 @@
+#REFLECTIONS
+
 This assignment included Tkinter, validation logic, creating a GUI, and serializing data into JSON and performing HTTP POST requests. A Flask API received the data, a Tkinter window collected it, and JSON was used as the format to connect them. I performed the steps below:
 
 #1. Build the API
